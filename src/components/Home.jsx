@@ -9,7 +9,7 @@ const Home = () => {
 
                 <p>My name is Miguel Eduardo and I am a Full Stack Web Developer</p>
                 <div className="buton_container">
-                    <a href="contact">Contact me</a>
+                    <a href="#contact">Contact me</a>
                 </div>
             </div>
             <div className="image__container">

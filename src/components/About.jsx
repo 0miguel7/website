@@ -15,8 +15,10 @@ const About = () => {
                     </div>
                     <div>
                         <p>
-                            I am a full stack web developer, i like creating web applications and learn about new techonologies, I build in the client
-                            side and in the server side with many tools. I like computers and discover the way they work
+                            I am a full stack web developer based in Peru. I enjoy creating web applications and learn about new technologies. I build
+                            in the client side and in the server side with many tools, right now MERN is my favourite stack . I love computers and
+                            learn about the way they work. I study Systems Engineering at San Marcos University where I learned many skills related to
+                            Computer Sience and Engineering.
                         </p>
                     </div>
                 </div>

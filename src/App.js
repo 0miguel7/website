@@ -11,10 +11,23 @@ const App = () => {
     return (
         <div>
             <Navbar />
-            <Home />
-            <About />
-            <Skills />
-            <Contact />
+            <section id="home">
+                {" "}
+                <Home />
+            </section>
+            <section id="about">
+                {" "}
+                <About />
+            </section>
+            <section id="skills">
+                {" "}
+                <Skills />
+            </section>
+            <section id="contact">
+                {" "}
+                <Contact />
+            </section>
+
             <Footer />
         </div>
     );
