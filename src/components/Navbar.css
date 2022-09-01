@@ -1,0 +1,33 @@
+.navbar {
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: rgb(7, 11, 108);
+    height: 60px;
+}
+
+.navbar__container {
+    margin-right: 40px;
+    display: flex;
+}
+
+.navbar p {
+    display: flex;
+    background-color: rgba(127, 255, 212, 0);
+    margin: 10px 30px;
+    align-items: center;
+}
+
+/* .navbar p:hover {
+    background-color: blanchedalmond;
+} */
+
+.navbar p a {
+    display: flex;
+    color: white;
+    font-family: Roboto;
+    font-size: 1.1rem;
+    font-weight: 900;
+    height: 50px;
+    align-items: center;
+    text-decoration: none;
+}

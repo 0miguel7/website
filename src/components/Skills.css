@@ -1,0 +1,49 @@
+.skills {
+    /* background-color: rgb(48, 47, 52); */
+    background-color: rgb(124, 70, 8);
+}
+
+.title_skills {
+    color: white;
+    padding: 30px;
+    font-family: Roboto;
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+
+.box {
+    color: aliceblue;
+    margin-bottom: 50px;
+    background-color: rgb(91, 53, 10);
+
+    width: 260px;
+    height: 300px;
+    padding: 20px;
+    padding-top: 40px;
+    border-radius: 20px;
+}
+
+.box p {
+    margin-left: 20px;
+    padding: 10px;
+    line-height: 30px;
+}
+
+.box__title {
+    display: flex;
+}
+
+.box__title h3 {
+    font-size: 1.3rem;
+}
+
+.icon {
+    margin-left: 30px;
+    margin-right: 20px;
+}
+
+.box_container {
+    display: flex;
+    justify-content: space-around;
+    /* margin-right: 20px; */
+}
