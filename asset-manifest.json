@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/website/static/css/main.7e6cf16b.css",
-    "main.js": "/website/static/js/main.a88217f5.js",
+    "main.js": "/website/static/js/main.aa7e3704.js",
+    "static/media/maninglasses.jpg": "/website/static/media/maninglasses.306ba4393be066aea544.jpg",
     "index.html": "/website/index.html",
     "main.7e6cf16b.css.map": "/website/static/css/main.7e6cf16b.css.map",
-    "main.a88217f5.js.map": "/website/static/js/main.a88217f5.js.map"
+    "main.aa7e3704.js.map": "/website/static/js/main.aa7e3704.js.map"
   },
   "entrypoints": [
     "static/css/main.7e6cf16b.css",
-    "static/js/main.a88217f5.js"
+    "static/js/main.aa7e3704.js"
   ]
 }
