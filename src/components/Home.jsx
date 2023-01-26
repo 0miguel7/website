@@ -1,20 +1,21 @@
 import React from "react";
 import "./Home.css";
+import maninglasses from "./maninglasses.jpg";
 
 const Home = () => {
     return (
         <div className="home">
             <div className="title">
-                <h1>Full Stack Developer</h1>
+                <h1>Hello!</h1>
 
-                <p>My name is Miguel Eduardo and I am a Full Stack Web Developer</p>
+                <p>Hi there, my name is Miguel Eduardo Vegas, I am a Systems Engineer and a Full Stack Web Developer </p>
                 <div className="buton_container">
                     <a href="#contact">Contact me</a>
                 </div>
             </div>
-            <div className="image__container">
-                <img src="./maninglasses.jpg" alt="pipipi" />
-            </div>
+            {/* <div className="image__container">
+                <img src={maninglasses} alt="pipipi" />
+            </div> */}
         </div>
     );
 };

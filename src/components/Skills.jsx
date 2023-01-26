@@ -24,6 +24,7 @@ const Skills = () => {
                         HTML <br />
                         CSS <br />
                         Javascript <br />
+                        Typescript <br />
                     </p>
                 </div>
                 <div className="box">
@@ -34,6 +35,7 @@ const Skills = () => {
 
                     <p>
                         Node JS <br />
+                        Typescript <br />
                         Express <br />
                         SQL Server <br />
                         MySQL <br />

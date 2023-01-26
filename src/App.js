@@ -6,6 +6,9 @@ import Footer from "./components/Footer";
 import Home from "./components/Home";
 import Navbar from "./components/Navbar";
 import Skills from "./components/Skills";
+import Front from "./components/front";
+import Back from "./components/back";
+import Tools from "./components/devtools";
 
 const App = () => {
     return (
@@ -20,14 +23,14 @@ const App = () => {
                 <About />
             </section>
             <section id="skills">
-                {" "}
-                <Skills />
+                <Front />
+                <Back />
+                <Tools />
             </section>
             <section id="contact">
                 {" "}
                 <Contact />
             </section>
-
             <Footer />
         </div>
     );

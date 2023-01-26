@@ -21,7 +21,7 @@ const Contact = () => {
     return (
         <div className="contact">
             <div className="contact_icon">
-                <img src="./message.png"></img>
+                <img src={process.env.PUBLIC_URL + "/message.png"}></img>
             </div>
             <div className="form">
                 <form onSubmit={handleSubmit}>
